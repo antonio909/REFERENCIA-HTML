@@ -1,0 +1,111 @@
+TAG	         DEFINIÇÕES
+<!--...-->   Define um comentário
+<!DOCTYPE>   Define o tipo de documento
+<a>	         Define um hiperlink
+<abbr>       Define uma abreviação ou acrônimo
+<address>    Define informações de contato do autor/proprietário de um documento
+<area>	     Define uma área dentro de um mapa de imagem
+<article>    Define um artigo
+<aside>      Define o conteúdo, além do conteúdo da página
+<audio>      Define um conteúdo de som incorporado
+<b>          Define texto em negrito
+<base>       Especifica o URL/destino base para todos os URLs relativos em um documento
+<bdi>        Isola uma parte do texto que pode estar formatada em uma direção diferente de outro texto fora dele
+<bdo>        Substitui a direção atual do texto
+<blockquote> Define uma seção que é citada de outra fonte
+<body>       Define o corpo do documento
+<br>	       Define uma quebra de linha
+<button>     Define um botão clicável
+<canvas>     Usado para desenhar gráficos dinamicamente, por meio de scripts (geralmente JavaScript)
+<caption>    Define uma legenda de tabela
+<cite>       Define o título de uma obra
+<code>       Define um código de computador
+<col>        Especifica propriedades de coluna para cada coluna dentro de um elemento <colgroup>
+<colgroup>   Especifica um grupo de uma ou mais colunas em uma tabela para formatação
+<data>       Adiciona uma tradução legível por máquina de um determinado conteúdo
+<datalist>   Especifica uma lista de opções predefinidas para controles de entrada
+<dd>	       Define uma descrição/valor de um termo em uma lista de descrição
+<del>        Define o texto que foi excluído de um documento
+<details>    Define detalhes adicionais que o usuário pode visualizar ou ocultar
+<dfn>	       Especifica um termo que será definido no conteúdo
+<dialog>     Define uma caixa de diálogo ou janela
+<div>        Define uma seção em um documento
+<dl>         Define uma lista de descrição
+<dt>         Define um termo/nome em uma lista de descrição
+<em>         Define um texto enfatizado
+<embed>      Define um contêiner para um aplicativo externo
+<fieldset>   Agrupa elementos relacionados em um formulário
+<figcaption> Define uma legenda para um elemento <figure>
+<figure>     Especifica conteúdo independente
+<footer>     Define um rodapé para um documento ou seção
+<form>       Define um formulário HTML para entrada do usuário
+<h1> to <h6> Define títulos HTML
+<head>       Contém metadados/informações do documento
+<header>     Define um cabeçalho para um documento ou seção
+<hgroup>     Define um cabeçalho e conteúdo relacionado
+<hr>         Define uma mudança temática no conteúdo
+<html>       Define a raiz de um documento HTML
+<i>          Define uma parte do texto com uma voz ou humor alternativo
+<iframe>     Define um quadro embutido
+<img>	       Define uma imagem
+<input>      Define um controle de entrada
+<ins>        Define um texto que foi inserido em um documento
+<kbd>        Define a entrada do teclado
+<label>      Define um rótulo para um elemento <input>
+<legend>     Define uma legenda para um elemento <fieldset>
+<li>         Define um item da lista
+<link>       Define o relacionamento entre um documento e um recurso externo (mais usado para vincular a folhas de estilo)
+<main>       Especifica o conteúdo principal de um documento
+<map>        Define um mapa de imagem
+<mark>       Define texto marcado/destacado
+<menu>       Define uma lista não ordenada
+<meta>       Define metadados sobre um documento HTML
+<meter>      Define uma medição escalar dentro de um intervalo conhecido (um medidor)
+<nav>        Define links de navegação
+<noscript>   Define um conteúdo alternativo para usuários que não suportam scripts do lado do cliente
+<object>     Define um contêiner para um aplicativo externo
+<ol>         Define uma lista ordenada
+<optgroup>   Define um grupo de opções relacionadas em uma lista suspensa
+<option>     Define uma opção em uma lista suspensa
+<output>     Define o resultado de um cálculo
+<p>          Define um parágrafo
+<param>      Define um parâmetro para um objeto
+<picture>    Define um contêiner para vários recursos de imagem
+<pre>        Define um texto pré-formatado
+<progress>   Representa o progresso de uma tarefa
+<q>          Define uma citação curta
+<rp>         Define o que mostrar em navegadores que não suportam anotações Ruby
+<rt>         Define uma explicação/pronúncia de caracteres (para tipografia do Leste Asiático)
+<ruby>       Define uma anotação Ruby (para tipografia do Leste Asiático)
+<s>          Define o texto que não está mais correto
+<samp>       Define a saída de amostra de um programa de computador
+<script>     Define um script do lado do cliente
+<search>     Define uma seção de pesquisa
+<section>    Define uma seção em um documento
+<select>     Define uma lista suspensa
+<small>      Define texto menor
+<source>     Define vários recursos para elementos de mídia (<video> e <audio>)
+<span>       Define uma seção em um documento
+<strong>     Define um texto importante
+<style>      Define informações de estilo para um documento
+<sub>        Define um texto subscrito
+<summary>    Define um título visível para um elemento <details>
+<sup>        Define um texto sobrescrito
+<svg>        Define um contêiner para gráficos SVG
+<table>      Define uma tabela
+<tbody>      Agrupa o conteúdo do corpo em uma tabela
+<td>         Define uma célula em uma tabela
+<template>   Define um contêiner para conteúdo que deve ser oculto quando a página for carregada
+<textarea>   Define um controle de entrada multilinha (área de texto)
+<tfoot>      Agrupa o conteúdo do rodapé em uma tabela
+<th>         Define uma célula de cabeçalho em uma tabela
+<thead>      Agrupa o conteúdo do cabeçalho em uma tabela
+<time>       Define uma hora específica (ou data e hora)
+<title>      Define um título para o documento
+<tr>         Define uma linha em uma tabela
+<track>      Define faixas de texto para elementos de mídia (<video> e <audio>)
+<u>          Define algum texto desarticulado e com estilo diferente do texto normal
+<ul>         Define uma lista não ordenada
+<var>        Define uma variável
+<video>      Define conteúdo de vídeo incorporado
+<wbr>        Define uma possível quebra de linha
